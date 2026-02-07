@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Funciones/Funciones.csproj" />
+  <Project Path="SentenciaIfElseIf/SentenciaIfElseIf.csproj" />
+  <Project Path="SwitchCase/SwitchCase.csproj" Id="ebec0ede-b4cd-4a80-8f1a-fdd0e96a4523" />
+  <Project Path="TipoDeDatos/TipoDeDatos.csproj" />
+  <Project Path="Variables/Variables.csproj" />
+</Solution>
