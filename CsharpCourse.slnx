@@ -12,6 +12,6 @@
   <Project Path="Static/Static.csproj" Id="f45fa9cd-9d1b-4d33-a437-ec88e7884998" />
   <Project Path="SwitchCase/SwitchCase.csproj" Id="ebec0ede-b4cd-4a80-8f1a-fdd0e96a4523" />
   <Project Path="TipoDeDatos/TipoDeDatos.csproj" />
-  <Project Path="Variables/Variables.csproj" />
+  <Project Path="Variables/1_Variables.csproj" />
   <Project Path="While/While.csproj" Id="f4f6ed90-a1c9-4c35-a04a-0602808f2164" />
 </Solution>
