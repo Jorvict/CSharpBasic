@@ -18,7 +18,7 @@ static void Show()
 // Función con parametros
 static void Sum(int num1, int num2)
 {
-    // cw y luego tab es un snippet para poner console.writeline
+    // cw y luego doble tab es un snippet para poner console.writeline
     int num3 = num1 + num2;
     Console.WriteLine(num3);
 }
