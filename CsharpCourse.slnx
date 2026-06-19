@@ -1,17 +1,17 @@
 <Solution>
-  <Project Path="Arreglos/Arreglos.csproj" Id="2b701107-473a-40a5-a13b-5a7c0488b8e3" />
+  <Project Path="Arreglos/6_Arreglos.csproj" Id="2b701107-473a-40a5-a13b-5a7c0488b8e3" />
   <Project Path="ClasesYObjetos/ClasesYObjetos.csproj" Id="31477c06-44ac-4575-9660-fdd67e70df1f" />
-  <Project Path="For/For.csproj" Id="51392f3f-af3f-4a19-88fe-906d04be90b8" />
-  <Project Path="Funciones/Funciones.csproj" />
+  <Project Path="For/8_For.csproj" Id="51392f3f-af3f-4a19-88fe-906d04be90b8" />
+  <Project Path="Funciones/3_Funciones.csproj" />
   <Project Path="Herencia/Herencia.csproj" Id="42a30801-bcbe-419c-a764-d32df228b0b2" />
   <Project Path="Json/Json.csproj" Id="3b87ef28-e633-48d2-aadf-6e2e8ac4bf9f" />
   <Project Path="Propiedades/Propiedades.csproj" Id="17981c58-546d-432c-88ed-ce22566452de" />
-  <Project Path="SentenciaIfElseIf/SentenciaIfElseIf.csproj" />
+  <Project Path="SentenciaIfElseIf/4_SentenciaIfElseIf.csproj" />
   <Project Path="Sobrecarga/Sobrecarga.csproj" Id="f17724f0-b87a-42fd-83f8-27adfddf20ea" />
   <Project Path="Sobreescritura/Sobreescritura.csproj" Id="cb96776c-0aff-49ce-884e-595e4363783e" />
   <Project Path="Static/Static.csproj" Id="f45fa9cd-9d1b-4d33-a437-ec88e7884998" />
-  <Project Path="SwitchCase/SwitchCase.csproj" Id="ebec0ede-b4cd-4a80-8f1a-fdd0e96a4523" />
-  <Project Path="TipoDeDatos/TipoDeDatos.csproj" />
+  <Project Path="SwitchCase/5_SwitchCase.csproj" Id="ebec0ede-b4cd-4a80-8f1a-fdd0e96a4523" />
+  <Project Path="TipoDeDatos/2_TipoDeDatos.csproj" />
   <Project Path="Variables/1_Variables.csproj" />
-  <Project Path="While/While.csproj" Id="f4f6ed90-a1c9-4c35-a04a-0602808f2164" />
+  <Project Path="While/7_While.csproj" Id="f4f6ed90-a1c9-4c35-a04a-0602808f2164" />
 </Solution>
