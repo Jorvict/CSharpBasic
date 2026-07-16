@@ -1,6 +1,6 @@
-<Solution>
+﻿<Solution>
   <Project Path="Arreglos/6_Arreglos.csproj" Id="2b701107-473a-40a5-a13b-5a7c0488b8e3" />
-  <Project Path="ClasesYObjetos/ClasesYObjetos.csproj" Id="31477c06-44ac-4575-9660-fdd67e70df1f" />
+  <Project Path="ClasesYObjetos/9_ClasesYObjetos.csproj" Id="31477c06-44ac-4575-9660-fdd67e70df1f" />
   <Project Path="For/8_For.csproj" Id="51392f3f-af3f-4a19-88fe-906d04be90b8" />
   <Project Path="Funciones/3_Funciones.csproj" />
   <Project Path="Herencia/Herencia.csproj" Id="42a30801-bcbe-419c-a764-d32df228b0b2" />
