@@ -2,8 +2,13 @@
 Console.WriteLine(doctor1.GetInfo());
 Console.WriteLine(doctor1.GetData());
 
+Dev dev1 = new Dev("Jed", 27, "C#");
+Console.WriteLine(dev1.GetInfo());
+Console.WriteLine(dev1.GetData());
+
 class People
 {
+    // Cuando el atributo es privado, por convención se le coloca un guión bajo
     private string _name;
     private int _age;
 
@@ -26,7 +31,7 @@ class Doctor : People
 {
     private string _speciality;
 
-    // ´Los parametros de doctor se pasan al constructor del padre usando base
+    // ´Los parametros de doctor se pasan al constructor del padre usando dos puntos ":" (igual que la herencia), y utilizando base
     public Doctor(string name, int age, string speciality) : base(name, age)
     {
         _speciality = speciality;
@@ -35,5 +40,20 @@ class Doctor : People
     public string GetData()
     {
         return GetInfo() + " " + _speciality;
+    }
+}
+
+class Dev : People
+{
+    private string _language;
+
+    public Dev(string name, int age, string language) : base(name, age)
+    {
+        _language = language;
+    }
+
+    public string GetData()
+    {
+        return GetInfo() + " " + _language;
     }
 }

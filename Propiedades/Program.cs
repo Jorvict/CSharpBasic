@@ -1,6 +1,7 @@
 ﻿Sale mySale = new Sale(100, DateTime.Now);
 mySale.Total = 223;
 Console.WriteLine(mySale.Date);
+Console.WriteLine(mySale.Total);
 
 class Sale
 {
@@ -15,6 +16,7 @@ class Sale
         Un objeto inválido no debería existir.
      */
 
+    // Esto es una propiedad, donde get y/o set es un accesor
     public int Total
     {
         get

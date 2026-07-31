@@ -14,7 +14,7 @@ class Sale
     int total;
     DateTime date;
 
-    // Constructor
+    // Constructor, se distingue porque se llama igual a la Clase, no amerita el void
     public Sale(int total, DateTime date)
     {
         this.total = total;
