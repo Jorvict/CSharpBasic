@@ -19,7 +19,7 @@ public class A
 {
 
     // AL usar la palabra reservada "Virtual" en algún método, podemos nosotros sobreescribir ese método desde
-    // alguna clase hija, pero tener muy en cuenta en la clase hija se que sobreescribirá se debe usar override
+    // alguna clase hija, pero tener muy en cuenta en la clase hija que se sobreescribirá se debe usar override
     public virtual string Hi()
     {
         return "Hola soy A";
@@ -40,7 +40,7 @@ public class B : A
 
 public class Sale
 {
-    // Buscar buenas practicas para nombrar variables, metodos, clases, tablas, etc segun microsoft
+    // Buscar buenas practicas para nombrar elementos privados como variables, metodos, clases, tablas, etc segun microsoft
     private decimal[] _amounts;
     private int _n;
     private int _end;
