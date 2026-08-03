@@ -17,6 +17,10 @@ People enrique = new People()
 };
 
 Console.WriteLine(People.Count);
+Console.WriteLine(People.GetCount());
+A.Some();
+
+
 
 public class People
 {
